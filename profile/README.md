@@ -1,5 +1,5 @@
 
-## Heyy
+## Hey! All
 
 Welcome to **CLIFF TECHNOLOGIES** – A new way of tracking Your Jumps.
 We build smart, AI-powered tools that help athletes **track**, **analyze**, and **elevate** their tricks – from the snowpark to the streets.
